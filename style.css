@@ -17,6 +17,7 @@ h1{
     display: inline-block;
     vertical-align: middle;
     margin-left: 40px;
+    font-family: 'Inter', sans-serif;
 }
 .post_icon{
     width: 30px;
@@ -61,13 +62,10 @@ h2{
 .paragrap_style{
     margin-left: 10px;
 }
-.arrows{
-    width: 30px;
-}
 button{
     border-radius: 10px;
     width: 180px;
-    background-color:deepskyblue;
+    background-color:#087DBF;
     margin-left: 60px;
     margin-top: 30px;
     
@@ -78,5 +76,5 @@ button{
 	box-shadow: 0 29px 48px rgba(1,16,62,0.12);
     margin-left: 40px;
     margin-top: 30px;
-    
+    display: inline-block;
 }
