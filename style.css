@@ -62,18 +62,26 @@ h2{
 .paragrap_style{
     margin-left: 10px;
 }
+.arrows{
+    vertical-align: middle;
+}
 button{
     border-radius: 10px;
     width: 180px;
+    height: 30px;
     background-color:#087DBF;
     margin-left: 60px;
     margin-top: 30px;
-    
+    font-size: 17px;
+    color:white ;
+    vertical-align: middle;
 }
 .bussinessman_info{
     width: 305px;
 	height: 400px;
-	box-shadow: 0 29px 48px rgba(1,16,62,0.12);
+    box-shadow: 1px 1px 1px 1px black;
+    border: 1px 1px 1px 1px;
+    border-radius: 10px;
     margin-left: 40px;
     margin-top: 30px;
     display: inline-block;
