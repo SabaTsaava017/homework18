@@ -44,6 +44,7 @@ li{
     height: 50px;
     border-radius: 30px;
     font-size: 20px;
+    padding-left: 50px;
     margin-top: 50px;
     margin-left: 110px;
 }
@@ -79,6 +80,7 @@ button{
     font-size: 17px;
     color:white ;
     vertical-align: middle;
+    border-color: #087DBF;
 }
 .bussinessman_info{
     width: 305px;
